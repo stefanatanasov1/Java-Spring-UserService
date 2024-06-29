@@ -1,0 +1,16 @@
+com\codedecode\userinfo\UserInformationApplication.class
+com\example\restaurantlisting\mapper\RestaurantMapperImpl.class
+com\codedecode\userinfo\mapper\UserMapperImpl.class
+com\example\restaurantlisting\service\RestaurantService.class
+com\codedecode\userinfo\dto\UserDTO.class
+com\codedecode\userinfo\repo\UserRepo.class
+com\codedecode\userinfo\entity\User.class
+com\example\restaurantlisting\repo\RestaurantRepo.class
+com\codedecode\userinfo\service\UserService.class
+com\example\restaurantlisting\entity\Restaurant.class
+com\codedecode\userinfo\controller\UserController.class
+com\codedecode\userinfo\mapper\UserMapper.class
+com\example\restaurantlisting\dto\RestaurantDTO.class
+com\example\restaurantlisting\mapper\RestaurantMapper.class
+com\example\restaurantlisting\controller\RestaurantController.class
+com\example\restaurantlisting\RestaurantListingApplication.class
